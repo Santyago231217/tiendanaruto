@@ -275,7 +275,7 @@ header {
         align-items: center;
     }
 
-    .nav-bar.activo {
+    .nav-bar .activo {
         height: 40vh;
         pointer-events: auto;
     }
