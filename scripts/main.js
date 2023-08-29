@@ -4,4 +4,4 @@ const nav = document.querySelector('.nav-bar');
 
 button.addEventListener('click', ()=> {
     nav.classList.toggle('activo')
-})
+});
